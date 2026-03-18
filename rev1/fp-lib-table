@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name APROG_Footprints)(type KiCad)(uri ${KIPRJMOD}/../lib/footprint_lib/APROG_Footprints.pretty)(options "")(descr "Footprints for APROG"))
+)

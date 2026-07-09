@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "APROG_Symbols") (type "Legacy") (uri "${KIPRJMOD}/../lib/symbol_lib/APROG_Symbols.lib") (options "") (descr "Symbols for the APROG HAT"))
+)

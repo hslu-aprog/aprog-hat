@@ -9544,26 +9544,6 @@
 		(uuid "82d387f9-6e87-4910-ab0f-031b0605cd67")
 	)
 	(gr_line
-		(start 92.8 124.8)
-		(end 92.8 137.4)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "8166b252-f153-4e3b-8286-13c11418586b")
-	)
-	(gr_line
-		(start 92.8 137.4)
-		(end 104.6 137.4)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "a52a8e9b-650a-4352-81f9-a8d988060c5b")
-	)
-	(gr_line
 		(start 93 166.6)
 		(end 94 165.6)
 		(stroke
@@ -9572,26 +9552,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-0000611ee438")
-	)
-	(gr_line
-		(start 104.6 124.8)
-		(end 92.8 124.8)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000060f1c695")
-	)
-	(gr_line
-		(start 104.6 137.4)
-		(end 104.6 124.8)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "8f1d913a-da7b-4bf6-ad63-c64387013990")
 	)
 	(gr_line
 		(start 106.564 128.154)
@@ -10344,15 +10304,17 @@
 			)
 		)
 	)
-	(gr_text "only for IoT"
-		(at 103.2 131.2 90)
+	(gr_text "Source Files:"
+		(at 91.2 138.6 90)
 		(layer "F.SilkS")
-		(uuid "a39fb3a7-b7bd-47c1-ad29-48b12249c6c1")
+		(uuid "34a73ff6-89dd-4b82-bc49-91c8b1ad9204")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "JLCJLCJLCJLC"
@@ -10366,6 +10328,18 @@
 			)
 			(justify left bottom mirror)
 		)
+	)
+	(barcode
+		(at 99 131 0)
+		(layer "F.SilkS")
+		(size 13.6 13.6)
+		(text "https://hslu-aprog.github.io/aprog-hat/")
+		(text_height 1.5)
+		(type qr)
+		(ecc_level L)
+		(hide yes)
+		(knockout no)
+		(uuid "59898fca-a4e2-47ee-a3fb-307327ad1c4b")
 	)
 	(segment
 		(start 66.850001 158.550001)
@@ -11160,24 +11134,6 @@
 		(uuid "00000000-0000-0000-0000-000060eea837")
 	)
 	(via
-		(at 96.7 131.6)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "00000000-0000-0000-0000-000060fabe32")
-	)
-	(via
 		(at 58.9 155)
 		(size 0.6)
 		(drill 0.3)
@@ -11464,24 +11420,6 @@
 		(filling no)
 		(net "GND")
 		(uuid "3a0d22c3-c2f4-4567-9a60-73288a308b10")
-	)
-	(via
-		(at 97.8 128.8)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "4071fd4c-f1be-4d5b-aba0-211120a66ec8")
 	)
 	(via
 		(at 68.6 146.2)
@@ -11952,24 +11890,6 @@
 		(uuid "a3f64047-8087-4d5a-954c-2bba40bbc794")
 	)
 	(via
-		(at 98.2 136.3)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "a65f1e62-3aec-400f-84f0-89180ae3bc77")
-	)
-	(via
 		(at 98.2 147.2)
 		(size 0.6)
 		(drill 0.3)
@@ -11986,24 +11906,6 @@
 		(filling no)
 		(net "GND")
 		(uuid "a73dc5cd-0eec-4b5d-ab6d-3521cdfc07ef")
-	)
-	(via
-		(at 97.5 124.6)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "aca8c920-1963-498f-a8a5-ae89cc292cd5")
 	)
 	(via
 		(at 110.6 169.2)
@@ -12186,24 +12088,6 @@
 		(uuid "d8fda795-139a-4b47-8dec-87a771931862")
 	)
 	(via
-		(at 101.5 134.5)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "e21e6f14-ffd6-44ea-8f69-ae079ef020bb")
-	)
-	(via
 		(at 89.5 155.1)
 		(size 0.6)
 		(drill 0.3)
@@ -12256,24 +12140,6 @@
 		(filling no)
 		(net "GND")
 		(uuid "ed0c765a-d8b7-4daf-810a-c778c22563ce")
-	)
-	(via
-		(at 100.8 127.8)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "GND")
-		(uuid "ed313bdd-7944-4208-a944-6d480d8ab560")
 	)
 	(via
 		(at 103.4 152.6)

@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "APROG HAT")
-		(date "2022-09-07")
-		(rev "7")
+		(date "2026-07-09")
+		(rev "8")
 		(company "Hochschule Luzern")
 	)
 	(layers

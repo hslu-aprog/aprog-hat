@@ -248,7 +248,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V8"
+      "sch_revision": "8"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -1054,7 +1054,7 @@
   "sheets": [
     [
       "ef78ae50-70c5-4b58-a6a1-2fd3262fe1e2",
-      "HAT_rev6"
+      "hat_rev8"
     ]
   ],
   "text_variables": {},

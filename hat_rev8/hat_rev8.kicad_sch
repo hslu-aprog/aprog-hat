@@ -7,7 +7,7 @@
 	(title_block
 		(title "APROG - Raspberry Pi HAT")
 		(date "2026-06-12")
-		(rev "V8")
+		(rev "8")
 		(company "Hochschule Luzern")
 	)
 	(lib_symbols

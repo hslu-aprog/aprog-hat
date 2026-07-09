@@ -10179,7 +10179,7 @@
 			)
 		)
 	)
-	(gr_text "V7: JUL.2021"
+	(gr_text "V8: 07/26"
 		(at 58.9 144.3 90)
 		(layer "F.Mask")
 		(uuid "02c42625-c099-4cc8-8306-d80c8dec2096")

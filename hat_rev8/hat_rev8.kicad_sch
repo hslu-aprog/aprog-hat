@@ -4742,17 +4742,6 @@
 		)
 		(uuid "67df6f53-ec39-43b4-9ecd-d0992eb79ae6")
 	)
-	(text "Replacement part for PMEG2005:\nPMEG3005\nPMEG4005\nsame diode, slightly higher Vf, higher reverse voltage"
-		(exclude_from_sim no)
-		(at 15.24 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7dbe034c-9a95-4ad1-a2b6-b3edd856f790")
-	)
 	(text "I2C Isolation"
 		(exclude_from_sim no)
 		(at 128.27 90.17 0)
@@ -9763,7 +9752,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 39.37 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12629,7 +12618,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 123.19 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12711,7 +12700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 146.05 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12793,7 +12782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 170.18 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13171,7 +13160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 74.93 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)

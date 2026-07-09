@@ -5322,7 +5322,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 0 2.5 180)
 			(layer "F.Fab")
 			(uuid "cfe54448-b918-4405-bcb9-c98077beb8e3")
@@ -5676,7 +5676,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "873726bc-f297-4578-aa1a-38ba57f6873c")
@@ -7275,7 +7275,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "6a8535a2-fc42-4bc6-813c-a6ffd74a42c5")
@@ -7629,7 +7629,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "7461990c-da7e-44ca-90df-f9c7abb1db89")
@@ -8218,7 +8218,7 @@
 				)
 			)
 		)
-		(property "Value" "PMEG2005CT"
+		(property "Value" "BAT54C"
 			(at 0 2.5 0)
 			(layer "F.Fab")
 			(uuid "11be6d3a-5ad8-444d-9e86-bcee7a84d492")
